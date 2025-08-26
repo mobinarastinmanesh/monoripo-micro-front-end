@@ -1,0 +1,56 @@
+
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[?25h
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠸[39m Creating project graph nodes with 7 plugins[2K[1G[?25h
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[?25h
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[?25h^C[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K

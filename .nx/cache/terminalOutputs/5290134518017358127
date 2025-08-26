@@ -1,0 +1,603 @@
+> vite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m114[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m3000[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:25:21 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[33m
+[0m64 |        };
+65 |        async function __federation_import(name) {
+66 |          currentImports[name] ??= import(name);
+   |                                          ^^^^
+67 |          return currentImports[name]
+68 |        }      const get =(module) => {[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:25:21 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[33m
+[0m366|  // eslint-disable-next-line
+367|  async function __federation_import(name) {
+368|    currentImports[name] ??= import(name);
+   |                                    ^^^^
+369|    return currentImports[name]
+370|  }[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:28:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:28:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:28:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:29:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:29:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:29:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x6)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:29:38 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:29:38 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:29:38 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[33m
+[0m64 |        };
+65 |        async function __federation_import(name) {
+66 |          currentImports[name] ??= import(name);
+   |                                          ^^^^
+67 |          return currentImports[name]
+68 |        }      const get =(module) => {[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:29:38 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[33m
+[0m366|  // eslint-disable-next-line
+367|  async function __federation_import(name) {
+368|    currentImports[name] ??= import(name);
+   |                                    ^^^^
+369|    return currentImports[name]
+370|  }[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:31:15 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:31:15 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:31:16 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[33m
+[0m64 |        };
+65 |        async function __federation_import(name) {
+66 |          currentImports[name] ??= import(name);
+   |                                          ^^^^
+67 |          return currentImports[name]
+68 |        }      const get =(module) => {[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:31:16 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[33m
+[0m366|  // eslint-disable-next-line
+367|  async function __federation_import(name) {
+368|    currentImports[name] ??= import(name);
+   |                                    ^^^^
+369|    return currentImports[name]
+370|  }[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:31:56 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:31:56 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:32:00 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:32:00 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:32:01 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[33m
+[0m64 |        };
+65 |        async function __federation_import(name) {
+66 |          currentImports[name] ??= import(name);
+   |                                          ^^^^
+67 |          return currentImports[name]
+68 |        }      const get =(module) => {[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:32:01 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[33m
+[0m366|  // eslint-disable-next-line
+367|  async function __federation_import(name) {
+368|    currentImports[name] ??= import(name);
+   |                                    ^^^^
+369|    return currentImports[name]
+370|  }[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/__federation_fn_import-D-HRJ5Kf.js[39m
+^C

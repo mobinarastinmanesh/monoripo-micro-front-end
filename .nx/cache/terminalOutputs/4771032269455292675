@@ -1,0 +1,390 @@
+> vite
+
+[2m4:42:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m129[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:45:09 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:45:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:45:09 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:45:56 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:45:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:45:56 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:45:59 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:45:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:45:59 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:46:09 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:46:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:46:09 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:46:23 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected "}"[0m
+
+    vite.config.ts:44:0:
+[37m      44 │ [32m}[37m));
+         ╵ [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:46:23 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:44:0: ERROR: Unexpected "}"
+[2m4:46:23 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:46:50 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m,
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:46:50 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:46:50 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:47:04 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m,
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:47:04 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:47:04 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:47:26 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:47:26 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:47:26 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:47:56 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:47:56 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:47:56 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:48:22 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:48:22 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:48:22 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:50:15 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:50:15 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:50:15 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:50:21 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:50:21 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:50:21 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:50:25 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:50:25 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:50:25 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:50:27 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mExpected identifier but found "]"[0m
+
+    vite.config.ts:43:4:
+[37m      43 │     [32m][37m
+         ╵     [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:50:27 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:43:4: ERROR: Expected identifier but found "]"
+[2m4:50:27 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:50:46 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected "}"[0m
+
+    vite.config.ts:44:2:
+[37m      44 │   [32m}[37m));
+         ╵   [32m^[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2m4:50:46 PM[22m [31m[1m[vite][22m[39m Build failed with 1 error:
+vite.config.ts:44:2: ERROR: Unexpected "}"
+[2m4:50:46 PM[22m [31m[1m[vite][22m[39m server restart failed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:50:56 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:50:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:50:56 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4200[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m4200[22m/[39m
+^C

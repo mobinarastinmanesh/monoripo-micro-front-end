@@ -1,0 +1,402 @@
+> vite
+
+[2m3:15:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m1272[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m3:15:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/app_mf_2_1__mf_v__runtimeInit__mf_v__.js, __mf__virtual/app_mf_2_1__prebuild__react__prebuild__.js, __mf__virtual/app_mf_2_1__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m3:15:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:22:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.__mf__temp/app_mf_2_1/localSharedImportMap.js[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:22:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.__mf__temp/app_mf_2_1/localSharedImportMap.js[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:22:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2m.__mf__temp/app_mf_2_1/localSharedImportMap.js[22m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:32:38 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m3:32:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m3:32:39 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:35:37 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap" from "virtual:mf-REMOTE_ENTRY_ID". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mvirtual:mf-REMOTE_ENTRY_ID[39m:5:42
+[33m  3  |    
+  4  |    import exposesMap from "virtual:mf-exposes"
+  5  |    import {usedShared, usedRemotes} from "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap"
+     |                                           ^
+  6  |    import {
+  7  |      initResolve[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+[2m3:35:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/host__mf_v__runtimeInit__mf_v__.js[32m[39m
+[2m3:35:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:35:38 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap" from "virtual:mf-REMOTE_ENTRY_ID". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mvirtual:mf-REMOTE_ENTRY_ID[39m:5:42
+[33m  3  |    
+  4  |    import exposesMap from "virtual:mf-exposes"
+  5  |    import {usedShared, usedRemotes} from "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap"
+     |                                           ^
+  6  |    import {
+  7  |      initResolve[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:36:07 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap" from "virtual:mf-REMOTE_ENTRY_ID". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mvirtual:mf-REMOTE_ENTRY_ID[39m:5:42
+[33m  3  |    
+  4  |    import exposesMap from "virtual:mf-exposes"
+  5  |    import {usedShared, usedRemotes} from "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap"
+     |                                           ^
+  6  |    import {
+  7  |      initResolve[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24) [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:36:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap" from "virtual:mf-REMOTE_ENTRY_ID". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36mvirtual:mf-REMOTE_ENTRY_ID[39m:5:42
+[33m  3  |    
+  4  |    import exposesMap from "virtual:mf-exposes"
+  5  |    import {usedShared, usedRemotes} from "/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/.__mf__temp/host/localSharedImportMap"
+     |                                           ^
+  6  |    import {
+  7  |      initResolve[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 2)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24) [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:36:46 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m3:36:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m3:36:46 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:36:47 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m3:36:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m3:36:47 PM[22m [36m[1m[vite][22m[39m server restarted.
+^C

@@ -1,0 +1,112 @@
+
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠸[39m Creating project graph nodes with 7 plugins[2K[1G[?25h
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K
+> @my-org/app-2@0.0.1 serve
+> nx serve app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠸[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠼[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠴[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠦[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠧[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠇[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠏[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠸[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠼[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠴[39m Creating project graph nodes with 2 plugins[2K[1G[36m⠦[39m Creating project graph nodes with 2 plugins[2K[1G[36m⠧[39m Creating project graph nodes with 2 plugins[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin^[[B[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin^[[B^[[B^[[B^[[B^[[B[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin^[[B^[[B^[[B^[[B^[[B[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[?25h
+[2m> [22m[2mnx run[22m @my-org/app-2:serve
+
+[2m3:52:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m1360[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m4201[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+
+[1m[33mwarn[39m[22m - No utility classes were detected in your source files. If this is unexpected, double-check the `content` option in your Tailwind CSS configuration.
+[1m[33mwarn[39m[22m - https://tailwindcss.com/docs/content-configuration
+^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m3:57:22 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m3:57:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m3:57:24 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4201[22m/[39m
+node:internal/fs/promises:639
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/node_modules/__mf__virtual/host__loadRemote__app_mf_2_1_mf_1_Button__loadRemote__.js'
+[90m    at async open (node:internal/fs/promises:639:25)[39m
+[90m    at async Object.readFile (node:internal/fs/promises:1243:14)[39m
+    at async extractExportsData (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:15346:24)
+    at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:15092:27
+    at async Promise.all (index 6)
+    at async prepareEsbuildOptimizerRun (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:15089:3) {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/node_modules/__mf__virtual/host__loadRemote__app_mf_2_1_mf_1_Button__loadRemote__.js'[39m
+}
+
+Node.js v23.5.0
+
+[2m[32m———————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target [1mserve[22m for project @my-org/app-2[39m
+
+
+
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+Request failed with status code 403. 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/runs/end</code> from this server.</h2>
+<h2></h2>
+</body></html>
+ (code: ERR_BAD_REQUEST)
+
+[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `serve` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m130[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx serve app-2
+[1G[0K⠙[1G[0K

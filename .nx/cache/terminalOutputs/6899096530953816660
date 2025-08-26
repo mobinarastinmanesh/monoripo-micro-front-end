@@ -1,0 +1,84 @@
+> vite
+
+[2m4:58:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m136[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4200[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+(node:12567) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/postcss.config.js?t=1756128537830 is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:58:58 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to load PostCSS config (searchPath: /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1): [ReferenceError] __dirname is not defined in ES module scope
+ReferenceError: __dirname is not defined in ES module scope
+    at file:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/postcss.config.js?t=1756128537830:11:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:552:26)
+    at async req$3 (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11658:13)
+    at async Object.search (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11400:23)[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/src/styles.css?direct[39m
+[2m4:58:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/app1__mf_v__runtimeInit__mf_v__.js, __mf__virtual/app1__prebuild__react__prebuild__.js, __mf__virtual/app1__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m4:58:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:58:58 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to load PostCSS config (searchPath: /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1): [ReferenceError] __dirname is not defined in ES module scope
+ReferenceError: __dirname is not defined in ES module scope
+    at file:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/postcss.config.js?t=1756128537830:11:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:552:26)
+    at async req$3 (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11658:13)
+    at async Object.search (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11400:23)[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/src/styles.css?direct[39m
+[2m5:00:36 PM[22m [36m[1m[vite][22m[39m changed tsconfig file detected: /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/tsconfig.json - Clearing cache and forcing full-reload to ensure TypeScript is compiled with updated config values.
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:00:36 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to load PostCSS config (searchPath: /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1): [ReferenceError] __dirname is not defined in ES module scope
+ReferenceError: __dirname is not defined in ES module scope
+    at file:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/postcss.config.js?t=1756128537830:11:20
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:552:26)
+    at async req$3 (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11658:13)
+    at async Object.search (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11400:23)[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/src/styles.css?direct[39m
+^C

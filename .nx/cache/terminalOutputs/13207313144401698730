@@ -1,0 +1,524 @@
+> vite
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m226[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m3000[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:07:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:08:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:08:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:08:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:08:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:09:10 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x6)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:09:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x7)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:09:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x8)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:09:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x9)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:09:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x10)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:09:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x11)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:10:01 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x12)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:10:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x13)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:10:10 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x14)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:11 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m [33m(x15)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:11 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "./app.css" from "src/app.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/src/app.tsx[39m:3:7
+[33m  17 |  import { Button } from "./components/button";
+  18 |  import { Input } from "./components/input";
+  19 |  import "./app.css";
+     |          ^
+  20 |  export function App() {
+  21 |    return /* @__PURE__ */ jsxDEV("div", { className: "phone-form-container", children: /* @__PURE__ */ jsxDEV("div", { className: "phone-form-card", children: [[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 5)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24)
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app.css[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.tsx[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:11:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:02 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x4)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x5)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x6)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:30 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x7)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:32 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app.css[22m [33m(x8)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:12:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/button/button.tsx[22m
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:13:12 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:13:12 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:13:12 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:13:13 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:13:15 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:13:15 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:13:18 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m6:13:18 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m6:15:50 PM[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [33mwarning: 
+[36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[33m
+[0m61 |        };
+62 |        async function __federation_import(name) {
+63 |          currentImports[name] ??= import(name);
+   |                                          ^^^^
+64 |          return currentImports[name]
+65 |        }      const get =(module) => {[0m[33m
+The above dynamic import cannot be analyzed by Vite.
+See [34mhttps://github.com/rollup/plugins/tree/master/packages/dynamic-import-vars#limitations[33m for supported dynamic import formats. If this is intended to be left as-is, you can use the /* @vite-ignore */ comment inside the import() call to suppress this warning.
+[33m[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/dist/assets/remoteEntry.js[39m
+^C

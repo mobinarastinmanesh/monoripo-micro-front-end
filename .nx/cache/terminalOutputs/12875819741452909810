@@ -1,0 +1,324 @@
+> vite
+
+[2m5:10:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m135[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m4201[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:10:25 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to load PostCSS config (searchPath: /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2): [ReferenceError] module is not defined in ES module scope
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: module is not defined in ES module scope
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/postcss.config.js?t=1756129224955:1:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:552:26)
+    at async req$3 (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11658:13)
+    at async Object.search (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11400:23)[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/styles.css?direct[39m
+[2m5:10:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/app2__mf_v__runtimeInit__mf_v__.js, __mf__virtual/app2__prebuild__react__prebuild__.js, __mf__virtual/app2__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m5:10:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:10:26 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to load PostCSS config (searchPath: /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2): [ReferenceError] module is not defined in ES module scope
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: module is not defined in ES module scope
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/postcss.config.js?t=1756129224955:1:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:552:26)
+    at async req$3 (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11658:13)
+    at async Object.search (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11400:23)[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/styles.css?direct[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:11:17 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to load PostCSS config (searchPath: /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2): [ReferenceError] module is not defined in ES module scope
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+ReferenceError: module is not defined in ES module scope
+This file is being treated as an ES module because it has a '.js' file extension and '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.
+    at file:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/postcss.config.js?t=1756129224955:1:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:272:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:552:26)
+    at async req$3 (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11658:13)
+    at async Object.search (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:11400:23)[39m
+  Plugin: [35mvite:css[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/styles.css?direct[39m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:11:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/styles.css[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:14:56 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m5:14:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m5:14:56 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:15:03 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m5:15:03 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m5:15:03 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:15:08 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+Error: Cannot find module 're act-dom/package.json'
+Require stack:
+- /Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/@module-federation/vite/lib/index.cjs
+[90m    at Function._resolveFilename (node:internal/modules/cjs/loader:1410:15)[39m
+[90m    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)[39m
+[90m    at Function._load (node:internal/modules/cjs/loader:1215:37)[39m
+[90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1496:12)[39m
+[90m    at require (node:internal/modules/helpers:135:16)[39m
+    at normalizeShareItem (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:361:17)
+    at /Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:409:21
+    at Array.forEach (<anonymous>)
+    at normalizeShared (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:408:25)
+    at normalizeModuleFederationOptions (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:456:13)
+    at federation (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:1372:17)
+    at [90mfile:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/[39mnode_modules/[4m.vite-temp[24m/vite.config.ts.timestamp-1756129508204-e1224a10c7f46.mjs:26:5
+    at loadConfigFromFile (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:49224:64)
+    at async resolveConfig (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:48718:24)
+    at async _createServer (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38329:18)
+    at async restartServer (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38883:19)
+    at async restartServerWithUrls (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38927:3)
+    at async handleHMRUpdate (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:39129:7)
+    at async onHMRUpdate (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38605:7)
+    at async FSWatcher.<anonymous> (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38642:5) {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: [
+    [32m'/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/@module-federation/vite/lib/index.cjs'[39m
+  ]
+}
+[2m5:15:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m5:15:08 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:15:09 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+Error: Cannot find module 're act-dom/package.json'
+Require stack:
+- /Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/@module-federation/vite/lib/index.cjs
+[90m    at Function._resolveFilename (node:internal/modules/cjs/loader:1410:15)[39m
+[90m    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)[39m
+[90m    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)[39m
+[90m    at Function._load (node:internal/modules/cjs/loader:1215:37)[39m
+[90m    at TracingChannel.traceSync (node:diagnostics_channel:322:14)[39m
+[90m    at wrapModuleLoad (node:internal/modules/cjs/loader:234:24)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:1496:12)[39m
+[90m    at require (node:internal/modules/helpers:135:16)[39m
+    at normalizeShareItem (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:361:17)
+    at /Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:409:21
+    at Array.forEach (<anonymous>)
+    at normalizeShared (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:408:25)
+    at normalizeModuleFederationOptions (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:456:13)
+    at federation (/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/[4m@module-federation[24m/vite/lib/index.cjs:1372:17)
+    at [90mfile:///Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/[39mnode_modules/[4m.vite-temp[24m/vite.config.ts.timestamp-1756129509890-e5a6296ba5164.mjs:26:5
+    at loadConfigFromFile (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:49224:64)
+    at async resolveConfig (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:48718:24)
+    at async _createServer (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38329:18)
+    at async restartServer (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38883:19)
+    at async restartServerWithUrls (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38927:3)
+    at async handleHMRUpdate (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:39129:7)
+    at async onHMRUpdate (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38605:7)
+    at async FSWatcher.<anonymous> (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:38642:5) {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: [
+    [32m'/Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/.pnpm/@module-federation+vite@1.7.1_rollup@4.48.1/node_modules/@module-federation/vite/lib/index.cjs'[39m
+  ]
+}
+[2m5:15:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m5:15:09 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m5:15:16 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m5:15:16 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m5:15:16 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m5:16:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/app2__mf_v__runtimeInit__mf_v__.js, __mf__virtual/app2__prebuild__react__prebuild__.js, __mf__virtual/app2__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m5:16:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+^C

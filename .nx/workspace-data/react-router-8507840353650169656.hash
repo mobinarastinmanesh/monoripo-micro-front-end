@@ -1,0 +1,105 @@
+{
+  "15897260645351565705apps/mono-demo/react-router.config.ts": {
+    "targets": {
+      "build": {
+        "cache": true,
+        "dependsOn": [
+          "^build"
+        ],
+        "inputs": [
+          "production",
+          "^production",
+          {
+            "externalDependencies": [
+              "@react-router/dev"
+            ]
+          }
+        ],
+        "outputs": [
+          "{workspaceRoot}/apps/mono-demo/build/client",
+          "{workspaceRoot}/apps/mono-demo/build/server"
+        ],
+        "command": "react-router build",
+        "options": {
+          "cwd": "apps/mono-demo"
+        },
+        "syncGenerators": [
+          "@nx/js:typescript-sync"
+        ]
+      },
+      "dev": {
+        "continuous": true,
+        "command": "react-router dev",
+        "options": {
+          "cwd": "apps/mono-demo"
+        },
+        "syncGenerators": [
+          "@nx/js:typescript-sync"
+        ]
+      },
+      "start": {
+        "continuous": true,
+        "dependsOn": [
+          "build"
+        ],
+        "command": "react-router-serve build/server/index.js",
+        "options": {
+          "cwd": "apps/mono-demo"
+        },
+        "syncGenerators": [
+          "@nx/js:typescript-sync"
+        ]
+      },
+      "typecheck": {
+        "cache": true,
+        "inputs": [
+          "production",
+          "^production",
+          {
+            "externalDependencies": [
+              "typescript"
+            ]
+          }
+        ],
+        "command": "tsc --build --emitDeclarationOnly",
+        "options": {
+          "cwd": "apps/mono-demo"
+        },
+        "metadata": {
+          "description": "Runs type-checking for the project.",
+          "technologies": [
+            "typescript"
+          ],
+          "help": {
+            "command": "npx tsc --build --help",
+            "example": {
+              "args": [
+                "--force"
+              ]
+            }
+          }
+        },
+        "dependsOn": [
+          "^typecheck"
+        ],
+        "syncGenerators": [
+          "@nx/js:typescript-sync"
+        ]
+      },
+      "build-deps": {
+        "dependsOn": [
+          "^build"
+        ]
+      },
+      "watch-deps": {
+        "continuous": true,
+        "dependsOn": [
+          "build-deps"
+        ],
+        "command": "npx nx watch --projects @my-org/mono-demo --includeDependentProjects -- npx nx build-deps @my-org/mono-demo"
+      }
+    },
+    "metadata": {},
+    "projectType": "application"
+  }
+}

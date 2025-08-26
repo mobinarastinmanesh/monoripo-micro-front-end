@@ -1,0 +1,57 @@
+> vite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m129[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m3000[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+node:internal/fs/promises:639
+  return new FileHandle(await PromisePrototypeThen(
+                        ^
+
+Error: ENOENT: no such file or directory, open '/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/tailwind.config.js'
+[90m    at async open (node:internal/fs/promises:639:25)[39m
+[90m    at async Object.readFile (node:internal/fs/promises:1243:14)[39m
+    at async extractExportsData (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/[4m.pnpm[24m/vite@6.3.5_@types+node@20.19.11_jiti@2.4.2_terser@5.43.1_yaml@2.8.1/node_modules/[4mvite[24m/dist/node/chunks/dep-DBxKXgDP.js:15346:24) {
+  errno: [33m-2[39m,
+  code: [32m'ENOENT'[39m,
+  syscall: [32m'open'[39m,
+  path: [32m'/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/tailwind.config.js'[39m
+}
+
+Node.js v23.5.0

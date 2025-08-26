@@ -1,0 +1,612 @@
+
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠸[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠼[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠴[39m Creating project graph nodes with 7 plugins[2K[1G[?25h[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[1G[0K⠙[1G[0K
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K⠹[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[?25h[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[?25h[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[?25h[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[1G[0K⠙[1G[0K
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K⠙[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[?25h[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[?25h[?25l[1G[0K⠙[1G[0K
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K⠙[1G[0K[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠸[39m Creating project graph nodes with 7 plugins[2K[1G[?25h[?25l
+> @my-org/app-2@0.0.1 build
+> nx build app-2
+
+[1G[0K[?25l[36m⠋[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠙[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠹[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠸[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠼[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠴[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠦[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠧[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠇[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠏[39m Creating project graph nodes with 7 plugins[2K[1G[36m⠋[39m Creating project graph nodes with 7 plugins[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mJSON does not support comments[0m
+
+    apps/app-1/package.json:1:0:
+[37m      1 │ [32m/// <reference types='vitest' />[37m
+        ╵ [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mUnexpected "import" in JSON[0m
+
+    apps/app-1/package.json:2:0:
+[37m      2 │ [32mimport[37m { defineConfig } from 'vite';
+        ╵ [32m~~~~~~[0m
+
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-1/vite.config.ts[39m
+[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠙[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠹[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠸[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠼[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠴[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠦[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠧[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠇[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠏[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[36m⠋[39m Creating project graph nodes with @nx/eslint/plugin[2K[1G[?25h
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mFailed to process project graph.[39m
+
+An error occurred while processing files for the @nx/vite/plugin plugin (Defined at nx.json#plugins[3])
+.
+  - apps/app-1/vite.config.ts: Build failed with 2 errors:
+apps/app-1/package.json:1:0: ERROR: JSON does not support comments
+apps/app-1/package.json:2:0: ERROR: Unexpected "import" in JSON
+
+[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (22s)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (35s)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (50s)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (1m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (1m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (2m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (2m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (2m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (2m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (2m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (3m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (3m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/v2/runs/start</code> from this server.</h2>
+<h2></h2>
+</body></html>. (code: 403)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (3m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+Cannot connect to Nx Cloud (scope: api, code: ECONNABORTED). Try invoking the command with the NX_CLOUD_NO_TIMEOUTS env variable set to 'true'.
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (3m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+Request failed with status code 403. 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/runs/end</code> from this server.</h2>
+<h2></h2>
+</body></html>
+ (code: ERR_BAD_REQUEST)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (4m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+Request failed with status code 403. 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/runs/end</code> from this server.</h2>
+<h2></h2>
+</body></html>
+ (code: ERR_BAD_REQUEST)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (4m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+Request failed with status code 403. 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/runs/end</code> from this server.</h2>
+<h2></h2>
+</body></html>
+ (code: ERR_BAD_REQUEST)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (4m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+Request failed with status code 403. 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/runs/end</code> from this server.</h2>
+<h2></h2>
+</body></html>
+ (code: ERR_BAD_REQUEST)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K[0K
+[2m[31m—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m[0K
+[0K
+[0m[7m[1m[31m NX [39m[22m[27m[0m  [31mRan target [1mbuild[22m for project [1m@my-org/app-2[22m[39m[2m (4m)[22m[0K
+[0K
+   [31m✖[39m  1/1 failed[0K
+   [2m✔[22m  0/1 succeeded [2m[0 read from cache][22m[0K
+[0K
+[0J[?25h
+[0m[7m[1m[33m NX [39m[22m[27m[0m  [33mNx Cloud encountered some problems[39m
+
+Request failed with status code 403. 
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>403 Forbidden</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Forbidden</h1>
+<h2>Your client does not have permission to get URL <code>/nx-cloud/runs/end</code> from this server.</h2>
+<h2></h2>
+</body></html>
+ (code: ERR_BAD_REQUEST)
+
+[?25h[?25h[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m Lifecycle script `build` failed with error:
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcode[39m [33m1[39m
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mpath[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mworkspace[39m @my-org/app-2@0.0.1
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mlocation[39m /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m command failed
+[1G[0K⠙[1G[0K[1mnpm[22m [31merror[39m [94mcommand[39m sh -c nx build app-2
+[1G[0K⠙[1G[0K

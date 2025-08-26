@@ -1,0 +1,89 @@
+> vite
+
+[2m3:57:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m1004[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4201[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+
+[1m[33mwarn[39m[22m - No utility classes were detected in your source files. If this is unexpected, double-check the `content` option in your Tailwind CSS configuration.
+[1m[33mwarn[39m[22m - https://tailwindcss.com/docs/content-configuration
+[2m3:57:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/host__mf_v__runtimeInit__mf_v__.js, __mf__virtual/host__prebuild__react__prebuild__.js, __mf__virtual/host__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m3:57:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:00:53 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:00:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:00:53 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4201[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.0.0.2:[1m4201[22m/[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:00:56 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:00:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:00:56 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:06:29 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[31mfailed to load config from /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/vite.config.ts[39m
+[2m4:06:29 PM[22m [31m[1m[vite][22m[39m Cannot find module 'vite'
+Require stack:
+- /Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/vite.config.ts
+- /Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js
+[2m4:06:29 PM[22m [31m[1m[vite][22m[39m server restart failed
+^C

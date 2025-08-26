@@ -1,0 +1,126 @@
+> vite
+
+[2m4:38:15 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m163[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.155.91:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+
+WARNING: There was an error creating glob patterns, returning an empty array
+[readCachedProjectGraph] ERROR: No cached ProjectGraph is available.
+
+If you are leveraging \`readCachedProjectGraph()\` directly then you will need to refactor your usage to first ensure that
+the ProjectGraph is created by calling \`await createProjectGraphAsync()\` somewhere before attempting to read the data.
+
+If you encounter this error as part of running standard \`nx\` commands then please open an issue on https://github.com/nrwl/nx
+
+[2m4:38:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/app_mf_2_1__mf_v__runtimeInit__mf_v__.js, __mf__virtual/app_mf_2_1__prebuild__react__prebuild__.js, __mf__virtual/app_mf_2_1__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m4:38:18 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:39:47 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:39:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:39:47 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:39:49 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:39:49 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:39:49 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m4:39:50 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m4:39:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m4:39:50 PM[22m [36m[1m[vite][22m[39m server restarted.
+^C

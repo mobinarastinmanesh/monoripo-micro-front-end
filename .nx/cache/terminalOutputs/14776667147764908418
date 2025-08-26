@@ -1,0 +1,590 @@
+> vite
+
+[2m2:40:31 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+
+  [32m[1mVITE[22m v6.3.5[39m  [2mready in [0m[1m149[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m2:40:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/host__mf_v__runtimeInit__mf_v__.js, __mf__virtual/host__prebuild__react__prebuild__.js, __mf__virtual/host__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m2:40:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:47:12 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:47:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:47:46 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "app-1/Button" from "src/app/app.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/app/app.tsx[39m:3:33
+[33m  16 |  }
+  17 |  import { lazy, Suspense } from "react";
+  18 |  const Button = lazy(_c = () => import("app-1/Button"));
+     |                                        ^
+  19 |  _c2 = Button;
+  20 |  export function App() {[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:47:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/remote-modules.d.ts[22m
+[2m2:47:57 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "app-1/Button" from "src/app/app.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/app/app.tsx[39m:3:33
+[33m  16 |  }
+  17 |  import { lazy, Suspense } from "react";
+  18 |  const Button = lazy(_c = () => import("app-1/Button"));
+     |                                        ^
+  19 |  _c2 = Button;
+  20 |  export function App() {[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:47:57 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "app-1/Button" from "src/app/app.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/app/app.tsx[39m:3:33
+[33m  16 |  }
+  17 |  import { lazy, Suspense } from "react";
+  18 |  const Button = lazy(_c = () => import("app-1/Button"));
+     |                                        ^
+  19 |  _c2 = Button;
+  20 |  export function App() {[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:47:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/remote-modules.d.ts[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:47:58 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "app-1/Button" from "src/app/app.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/app/app.tsx[39m:3:33
+[33m  16 |  }
+  17 |  import { lazy, Suspense } from "react";
+  18 |  const Button = lazy(_c = () => import("app-1/Button"));
+     |                                        ^
+  19 |  _c2 = Button;
+  20 |  export function App() {[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:06 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/app.tsx[22m
+[2m2:48:07 PM[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m Pre-transform error: Failed to resolve import "app-1/Button" from "src/app/app.tsx". Does the file exist?
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/app/app.tsx[39m:3:33
+[33m  16 |  }
+  17 |  import { lazy, Suspense } from "react";
+  18 |  const Button = lazy(_c = () => import("app-1/Button"));
+     |                                        ^
+  19 |  _c2 = Button;
+  20 |  export function App() {[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:07 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "app-1/Button" from "src/app/app.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/app/app.tsx[39m:3:33
+[33m  16 |  }
+  17 |  import { lazy, Suspense } from "react";
+  18 |  const Button = lazy(_c = () => import("app-1/Button"));
+     |                                        ^
+  19 |  _c2 = Button;
+  20 |  export function App() {[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:07 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/remote-modules.d.ts[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:08 PM[22m [31m[1m[vite][22m[39m [31mInternal server error: Failed to resolve import "app-1/Button" from "src/app/app.tsx". Does the file exist?[39m
+  Plugin: [35mvite:import-analysis[39m
+  File: [36m/Users/snapp/Documents/Projects/mfe-apps/my-org/apps/app-2/src/app/app.tsx[39m:3:33
+[33m  16 |  }
+  17 |  import { lazy, Suspense } from "react";
+  18 |  const Button = lazy(_c = () => import("app-1/Button"));
+     |                                        ^
+  19 |  _c2 = Button;
+  20 |  export function App() {[39m
+      at TransformPluginContext._formatLog (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42499:41)
+      at TransformPluginContext.error (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42496:16)
+      at normalizeUrl (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40475:23)
+      at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+      at async file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40594:37
+      at async Promise.all (index 4)
+      at async TransformPluginContext.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:40521:7)
+      at async EnvironmentPluginContainer.transform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:42294:18)
+      at async loadAndTransform (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:35735:27)
+      at async viteTransformMiddleware (file:///Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/vite/dist/node/chunks/dep-DBxKXgDP.js:37250:24)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:13 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/app.tsx[22m
+[2m2:48:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mapp1/Button[32m[39m
+[2m2:48:14 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:17 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:21 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/remote-modules.d.ts[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/remote-modules.d.ts[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/remote-modules.d.ts[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:48:58 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/remote-modules.d.ts[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:54:41 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m2:54:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m2:54:41 PM[22m [36m[1m[vite][22m[39m server restarted.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:54:47 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m2:54:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m2:54:47 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m2:54:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/host__mf_v__runtimeInit__mf_v__.js, __mf__virtual/host__prebuild__react__prebuild__.js, __mf__virtual/host__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m2:54:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:55:22 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m2:55:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Forced re-optimization of dependencies
+[2m2:55:22 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m2:55:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33m__mf__virtual/host__mf_v__runtimeInit__mf_v__.js, __mf__virtual/host__prebuild__react__prebuild__.js, __mf__virtual/host__prebuild__react_mf_2_dom__prebuild__.js[32m[39m
+[2m2:55:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:56:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/nx-welcome.tsx[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m [33m(x2)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:56:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m [33m(x3)[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J[2m2:57:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/app.tsx, /src/styles.css?direct[22m [33m(x4)[39m
+^C

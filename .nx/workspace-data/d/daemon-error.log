@@ -1,0 +1,26 @@
+Daemon process terminated and closed the connection
+
+Messages from the log:
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.012Z - [WATCHER]: Subscribed to changes within: /Users/snapp/Documents/Projects/mfe-apps/my-org (native)
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.020Z - Server stopped because: "this process is no longer the current daemon (native)"
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.022Z - Established a connection. Number of open connections: 1
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.025Z - Closed a connection. Number of open connections: 0
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.051Z - Established a connection. Number of open connections: 1
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.054Z - Established a connection. Number of open connections: 2
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.054Z - Closed a connection. Number of open connections: 1
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.055Z - [REQUEST]: Client Request for Project Graph Received
+Time for 'plugin worker 58246 code loading' 9.370792000000002
+Time for 'plugin worker 58244 code loading' 5.873083000000001
+Time for 'plugin worker 58243 code loading' 5.442125000000001
+Time for 'plugin worker 58245 code loading' 8.699125000000002
+Time for 'plugin worker 58242 code loading' 7.148
+Time for 'plugin worker 58247 code loading' 7.875208000000004
+Time for 'plugin worker 58248 code loading' 7.956125
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.416Z - Time taken for 'Load Nx Plugin: /Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/nx/src/plugins/project-json/build-nodes/project-json' 358.38262499999996ms
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.418Z - Time taken for 'Load Nx Plugin: /Users/snapp/Documents/Projects/mfe-apps/my-org/node_modules/nx/src/plugins/package-json' 360.278583ms
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.458Z - Time taken for 'loadDefaultNxPlugins' 400.33400000000006ms
+[NX v21.4.1 Daemon Server] - 2025-08-25T11:42:39.470Z - Closed a connection. Number of open connections: 0
+
+
+
+More information: /Users/snapp/Documents/Projects/mfe-apps/my-org/.nx/workspace-data/d/daemon.log

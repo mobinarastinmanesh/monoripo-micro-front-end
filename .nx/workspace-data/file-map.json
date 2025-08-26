@@ -1,0 +1,243 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.4.1",
+  "pathMappings": {},
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/js/typescript",
+      "options": {
+        "typecheck": {
+          "targetName": "typecheck"
+        },
+        "build": {
+          "targetName": "build",
+          "configName": "tsconfig.lib.json",
+          "buildDepsName": "build-deps",
+          "watchDepsName": "watch-deps"
+        }
+      }
+    },
+    {
+      "name": "@nx/react/router-plugin",
+      "options": {
+        "buildTargetName": "build",
+        "devTargetName": "dev",
+        "startTargetName": "start",
+        "watchDepsTargetName": "watch-deps",
+        "buildDepsTargetName": "build-deps",
+        "typecheckTargetName": "typecheck"
+      }
+    },
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    },
+    {
+      "name": "@nx/vite/plugin",
+      "options": {
+        "buildTargetName": "build",
+        "testTargetName": "test",
+        "serveTargetName": "serve",
+        "devTargetName": "dev",
+        "previewTargetName": "preview",
+        "serveStaticTargetName": "serve-static",
+        "typecheckTargetName": "typecheck",
+        "buildDepsTargetName": "build-deps",
+        "watchDepsTargetName": "watch-deps"
+      }
+    }
+  ],
+  "fileMap": {
+    "projectFileMap": {
+      "@my-org/app-1": [
+        {
+          "file": "apps/app-1/.__mf__temp/app_mf_2_1/localSharedImportMap.js",
+          "hash": "10218615286599483753"
+        },
+        {
+          "file": "apps/app-1/.__mf__temp/host/localSharedImportMap.js",
+          "hash": "12371949711104776038"
+        },
+        {
+          "file": "apps/app-1/.__mf__temp/remote_app/localSharedImportMap.js",
+          "hash": "6237646092650444094"
+        },
+        {
+          "file": "apps/app-1/eslint.config.mjs",
+          "hash": "8789163670399984295"
+        },
+        {
+          "file": "apps/app-1/index.html",
+          "hash": "18371209359471482119"
+        },
+        {
+          "file": "apps/app-1/package.json",
+          "hash": "5200393952673058526"
+        },
+        {
+          "file": "apps/app-1/postcss.config.js",
+          "hash": "2759402739052110475"
+        },
+        {
+          "file": "apps/app-1/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/app-1/src/app/app.tsx",
+          "hash": "5443641016184500297"
+        },
+        {
+          "file": "apps/app-1/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/app-1/src/components/Button.tsx",
+          "hash": "1785520933368017212"
+        },
+        {
+          "file": "apps/app-1/src/main.tsx",
+          "hash": "6494962159756833686"
+        },
+        {
+          "file": "apps/app-1/src/styles.css",
+          "hash": "9540575453073076294"
+        },
+        {
+          "file": "apps/app-1/tailwind.config.js",
+          "hash": "13090734457927965885"
+        },
+        {
+          "file": "apps/app-1/tsconfig.app.json",
+          "hash": "16741033504924627693"
+        },
+        {
+          "file": "apps/app-1/tsconfig.json",
+          "hash": "1731869790938503978"
+        },
+        {
+          "file": "apps/app-1/vite.config.ts",
+          "hash": "84114477328838839"
+        }
+      ],
+      "@my-org/app-2": [
+        {
+          "file": "apps/app-2/.__mf__temp/host/localSharedImportMap.js",
+          "hash": "12371949711104776038"
+        },
+        {
+          "file": "apps/app-2/eslint.config.mjs",
+          "hash": "8789163670399984295"
+        },
+        {
+          "file": "apps/app-2/index.html",
+          "hash": "12494805279610206472"
+        },
+        {
+          "file": "apps/app-2/package.json",
+          "hash": "9921932549265302906"
+        },
+        {
+          "file": "apps/app-2/postcss.config.js",
+          "hash": "2759402739052110475"
+        },
+        {
+          "file": "apps/app-2/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "apps/app-2/src/app/app.tsx",
+          "hash": "13655445294791033381"
+        },
+        {
+          "file": "apps/app-2/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/app-2/src/main.tsx",
+          "hash": "6494962159756833686",
+          "deps": [
+            "npm:react",
+            "npm:react-router-dom",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/app-2/src/styles.css",
+          "hash": "9540575453073076294"
+        },
+        {
+          "file": "apps/app-2/tailwind.config.js",
+          "hash": "13090734457927965885"
+        },
+        {
+          "file": "apps/app-2/tsconfig.app.json",
+          "hash": "16741033504924627693"
+        },
+        {
+          "file": "apps/app-2/tsconfig.json",
+          "hash": "1731869790938503978"
+        },
+        {
+          "file": "apps/app-2/vite.config.ts",
+          "hash": "16834645042858148329"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": ".github/workflows/ci.yml",
+        "hash": "747817022128932451"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "6746974787570063356"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "14688272390704683536"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "16884713733442577066"
+      },
+      {
+        "file": "README.md",
+        "hash": "4653705076884101026"
+      },
+      {
+        "file": "error.log",
+        "hash": "3537019111692895134"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "10342242253953339344"
+      },
+      {
+        "file": "nx.json",
+        "hash": "11363793186939800701"
+      },
+      {
+        "file": "package.json",
+        "hash": "5987008775669747762"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "18132073024976155609"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "17956205669613918671"
+      }
+    ]
+  }
+}
